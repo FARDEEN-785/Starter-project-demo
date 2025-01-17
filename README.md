@@ -1,2 +1,2 @@
-# stater-project-demo
+# Starter-project-demo
 This is my first Git Repository
